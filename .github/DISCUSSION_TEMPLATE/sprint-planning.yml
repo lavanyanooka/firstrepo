@@ -1,0 +1,25 @@
+title: "[MM-DD-YYYY] Sprint Plan"
+body:
+  - type: textarea
+    attributes:
+      label: Sprint Goals
+      description: "Specific, measurable goals for the sprint"
+      value: |
+        1. ...
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Potential Blockers
+      description: "Things that will prevent us from hitting our goals"
+      value: |
+        1. ...
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Planned Leaves / OOOs
+      value: |
+        - _None_
+    validations:
+      required: true

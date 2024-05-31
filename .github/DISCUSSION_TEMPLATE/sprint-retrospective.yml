@@ -1,0 +1,25 @@
+title: "[MM-DD-YYYY] Sprint Retrospective"
+body:
+  - type: textarea
+    attributes:
+      label: What Went Well
+      description: "What are the things that went well during the last sprint?"
+      value: |
+        - ...
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: What Can Be Improved
+      description: "What are the things that could have gone better during the last sprint?"
+      value: |
+        - ...
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Action Items
+      value: |
+        1. ...
+    validations:
+      required: true
